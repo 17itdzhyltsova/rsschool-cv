@@ -1,1 +1,1 @@
-https://github.com/17itdzhyltsova/rsschool-cv/tree/gh-pages
+https://17itdzhyltsova.github.io/rsschool-cv/cv
